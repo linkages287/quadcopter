@@ -1,0 +1,6 @@
+http://theboredengineers.com/2012/09/the-quadcopter-get-its-orientation-from-sensors/
+
+http://beaglebone.cameon.net/home/serial-ports-uart # cameon BBB
+
+#scaling pid factors on variable sample rate
+http://support.motioneng.com/downloads-notes/tuning/scaling_pid_param.htm 
